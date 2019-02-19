@@ -1,5 +1,5 @@
 import unittest
-from src import Validator
+from validator import Validator
 
 INPUT_SECRET = 'inputsecret' #very scret
 OUTPUT_SECRET = 'outputsecret'
