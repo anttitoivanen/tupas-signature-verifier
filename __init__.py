@@ -1,1 +1,1 @@
-from src import validate
+from validator import Validator
